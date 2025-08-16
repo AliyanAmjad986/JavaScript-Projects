@@ -1,0 +1,40 @@
+.POS{
+    border: 2px solid red;
+       background-color: black;
+    text-align: center;
+}  
+
+label {
+    font-size: x-large;
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 800;
+  color: chartreuse;
+}
+.Product-div{
+    border: 2px solid red;
+    text-align: -webkit-center;
+        background: deeppink;
+}
+.product-box1{
+    border: 2px solid red;
+    width: fit-content;
+    text-align: center;
+    margin: 10px;
+    background-color: blue;
+    
+}
+.content{
+    border: 2px solid red;
+    background-color: aliceblue;
+    margin: 10px;
+}
+img{
+    width: 110px;
+    border: 2px;
+    border-style: outset
+}
+td{
+    border: 2px solid black;
+    
+}
